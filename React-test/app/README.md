@@ -13,7 +13,7 @@
 * Clone this project to your computer
 * To run the react client, withe this commands:
 ```
-cd client
+cd src
 npm i
 npm start
 ```
